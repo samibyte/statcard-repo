@@ -126,7 +126,7 @@ tr:nth-child(6) { animation-delay: 2.35s; }
         <table>
           <thead>
             <tr style="transform: scale(1) translateY(0); opacity:1; animation:none;">
-              <th colspan="2">Adnan Sami's GitHub Statistics</th>
+              <th colspan="2">Sami Adnan's GitHub Statistics</th>
             </tr>
           </thead>
           <tbody>

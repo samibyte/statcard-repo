@@ -211,47 +211,47 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 1.4s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">book-worm</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">1</td>
+          <td class="date-range" style="width: 120px; text-align: center;">31.03 - 13.04</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">byte-tools</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">1</td>
+          <td class="date-range" style="width: 120px; text-align: center;">31.03 - 13.04</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">habit-flow-client</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">1</td>
-          <td class="date-range" style="width: 120px; text-align: center;">30.03 - 12.04</td>
+          <td class="date-range" style="width: 120px; text-align: center;">31.03 - 13.04</td>
         </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">portfolio-v2</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">1</td>
-          <td class="date-range" style="width: 120px; text-align: center;">30.03 - 12.04</td>
+          <td class="date-range" style="width: 120px; text-align: center;">31.03 - 13.04</td>
         </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">ripple-chat</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">1</td>
-          <td class="date-range" style="width: 120px; text-align: center;">28.03 - 10.04</td>
-        </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">samibyte</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">1</td>
-          <td class="date-range" style="width: 120px; text-align: center;">30.03 - 12.04</td>
-        </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">simple-js-problem-task</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">1</td>
-          <td class="date-range" style="width: 120px; text-align: center;">30.03 - 12.04</td>
+          <td class="date-range" style="width: 120px; text-align: center;">31.03 - 13.04</td>
         </tr>
         </tbody>
       </table>
